@@ -43,10 +43,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 # Methodology
 
-1. Importing libraries
-2. Exploratory Data Analysis
-3. Finding out the missing data attributes
-4. Cleaning the data
-5. Converting Categorical features
-6. Building a Logistic regression Model
-7. And finally evaluating the results
+- Importing libraries
+- Exploratory Data Analysis
+- Finding out the missing data attributes
+- Cleaning the data
+- Converting Categorical features
+- Building a Logistic regression Model
+- And finally evaluating the results
